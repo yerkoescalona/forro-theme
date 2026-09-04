@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Roots Light
+ColorForeground=#2A2018
+ColorBackground=#F0EBE2
+ColorCursor=#b85316
+ColorCursorForeground=#F0EBE2
+ColorSelection=#F0EBE2
+ColorSelectionUseDefault=TRUE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#946a00
+ColorPalette=#2A2018;#b75416;#4A7A50;#996700;#4A6E8A;#916090;#3A7A6A;#7A7060;#7A7060;#be4e0d;#4d7c53;#946a00;#527590;#8e6290;#3c7c6d;#2A2018

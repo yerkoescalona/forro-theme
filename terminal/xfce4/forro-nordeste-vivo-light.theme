@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Nordeste Vivo Light
+ColorForeground=#1A1A18
+ColorBackground=#F0EEE8
+ColorCursor=#996900
+ColorCursorForeground=#F0EEE8
+ColorSelection=#F0EEE8
+ColorSelectionUseDefault=TRUE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#996900
+ColorPalette=#1A1A18;#ca4600;#00834f;#996900;#4A6E8A;#8B5A8A;#3A7A6A;#6A6860;#6A6860;#e1182c;#00834f;#996900;#537692;#906392;#3d7e6e;#1A1A18

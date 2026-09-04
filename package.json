@@ -1,0 +1,115 @@
+{
+  "name": "forro-theme",
+  "displayName": "Forró",
+  "description": "A dark theme built from Chilean-Brazilian-Viennese roots. Terracotta, ochre, forest green, ivory.",
+  "version": "2.2.0",
+  "publisher": "yerko-escalona",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forró Roots",
+        "uiTheme": "vs-dark",
+        "path": "./editors/vscode/themes/forro-roots-color-theme.json"
+      },
+      {
+        "label": "Forró Íntimo",
+        "uiTheme": "vs-dark",
+        "path": "./editors/vscode/themes/forro-intimo-color-theme.json"
+      },
+      {
+        "label": "Forró Nordeste Vivo",
+        "uiTheme": "vs-dark",
+        "path": "./editors/vscode/themes/forro-nordeste-vivo-color-theme.json"
+      },
+      {
+        "label": "Forró Pé de Serra",
+        "uiTheme": "vs-dark",
+        "path": "./editors/vscode/themes/forro-pe-de-serra-color-theme.json"
+      },
+      {
+        "label": "Forró PD",
+        "uiTheme": "vs-dark",
+        "path": "./editors/vscode/themes/forro-pd-color-theme.json"
+      },
+      {
+        "label": "Forró Roots Light",
+        "uiTheme": "vs",
+        "path": "./editors/vscode/themes/forro-roots-light-color-theme.json"
+      },
+      {
+        "label": "Forró Íntimo Light",
+        "uiTheme": "vs",
+        "path": "./editors/vscode/themes/forro-intimo-light-color-theme.json"
+      },
+      {
+        "label": "Forró Nordeste Vivo Light",
+        "uiTheme": "vs",
+        "path": "./editors/vscode/themes/forro-nordeste-vivo-light-color-theme.json"
+      },
+      {
+        "label": "Forró Pé de Serra Light",
+        "uiTheme": "vs",
+        "path": "./editors/vscode/themes/forro-pe-de-serra-light-color-theme.json"
+      },
+      {
+        "label": "Forró PD Light",
+        "uiTheme": "vs",
+        "path": "./editors/vscode/themes/forro-pd-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yerko-escalona/forro-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/yerko-escalona/forro-theme/issues"
+  },
+  "homepage": "https://github.com/yerko-escalona/forro-theme#readme",
+  "keywords": [
+    "dark",
+    "light",
+    "warm",
+    "terracotta",
+    "forró",
+    "nordeste",
+    "brazilian"
+  ],
+  "scripts": {
+    "test": "node --test tests/helpers.test.js tests/contrast.test.js tests/zed-theme.test.mjs tests/xfce-theme.test.mjs",
+    "fix:contrast": "node scripts/fix-contrast.js",
+    "generate:light": "node scripts/generate-light-themes.js",
+    "generate:zed": "node scripts/generate-zed-themes.mjs",
+    "generate:xfce": "node scripts/generate-xfce-themes.mjs",
+    "build:site": "node scripts/build-site.mjs",
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "release": "standard-version",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{json,md,yml,yaml,js}": "prettier --write"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0",
+    "@vscode/vsce": "^3.0.0",
+    "ajv": "^8.0.0",
+    "culori": "^4.0.2",
+    "husky": "^9.0.0",
+    "lint-staged": "^15.0.0",
+    "prettier": "^3.0.0",
+    "shiki": "^4.0.2",
+    "standard-version": "^9.5.0"
+  }
+}

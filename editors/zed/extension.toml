@@ -1,0 +1,7 @@
+id = "forro-theme"
+name = "Forró"
+version = "1.0.0"
+schema_version = 1
+authors = ["Yerko Escalona <yerko.escalona.balboa@gmail.com>"]
+description = "A dark and light theme family built from Chilean-Brazilian-Viennese roots. Terracotta, ochre, forest green, ivory."
+repository = "https://github.com/yerko-escalona/forro-theme"

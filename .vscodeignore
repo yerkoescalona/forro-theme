@@ -1,0 +1,16 @@
+.github/**
+.husky/**
+.vscode-test/**
+docs/**
+editors/zed/**
+node_modules/**
+scripts/**
+site/**
+terminal/**
+tests/**
+*.vsix
+package-lock.json
+.prettierrc
+.prettierignore
+.versionrc.json
+commitlint.config.js

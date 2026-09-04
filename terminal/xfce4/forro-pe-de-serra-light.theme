@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Pé de Serra Light
+ColorForeground=#1A1510
+ColorBackground=#EEE9E0
+ColorCursor=#996500
+ColorCursorForeground=#EEE9E0
+ColorSelection=#EEE9E0
+ColorSelectionUseDefault=TRUE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#996500
+ColorPalette=#1A1510;#b65214;#4A7A50;#a26000;#4A6E8A;#8B5A8A;#3A7A6A;#6A5E50;#6A5E50;#c54400;#4c7a52;#996500;#51748f;#8d618f;#3b7b6c;#1A1510

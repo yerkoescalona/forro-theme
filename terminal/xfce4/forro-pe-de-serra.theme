@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Pé de Serra
+ColorForeground=#F5F0E8
+ColorBackground=#0A0908
+ColorCursor=#C8920A
+ColorCursorForeground=#0A0908
+ColorSelection=#C8622A
+ColorSelectionUseDefault=FALSE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#C8920A
+ColorPalette=#0F0D0B;#C8622A;#4A7A50;#E8A055;#4A6E8A;#8B5A8A;#3A7A6A;#C8B8A0;#70604E;#D4521A;#6A9A70;#C8920A;#6A8EAA;#A87AAA;#5A9A8A;#F5F0E8

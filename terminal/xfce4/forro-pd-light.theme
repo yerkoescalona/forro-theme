@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró PD Light
+ColorForeground=#0F172A
+ColorBackground=#EEF1F5
+ColorCursor=#008600
+ColorCursorForeground=#EEF1F5
+ColorSelection=#EEF1F5
+ColorSelectionUseDefault=TRUE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#a16900
+ColorPalette=#0F172A;#008600;#008600;#00862d;#286fe1;#00862d;#008575;#64748B;#64748B;#00862d;#00862d;#a16900;#3075c6;#7e61cb;#008675;#0F172A

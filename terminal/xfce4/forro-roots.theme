@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Roots
+ColorForeground=#F4EFE0
+ColorBackground=#111111
+ColorCursor=#cb652d
+ColorCursorForeground=#111111
+ColorSelection=#cb652d
+ColorSelectionUseDefault=FALSE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#D4A82A
+ColorPalette=#1A1A1A;#cb652d;#4A7A50;#B5821A;#4A6E8A;#a371a2;#3A7A6A;#C8B8A0;#4A4540;#D4622A;#6A9A70;#D4A82A;#6A8EAA;#A87AAA;#5A9A8A;#F4EFE0

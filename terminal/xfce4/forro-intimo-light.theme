@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Íntimo Light
+ColorForeground=#1E1408
+ColorBackground=#F2EADF
+ColorCursor=#a0603b
+ColorCursorForeground=#F2EADF
+ColorSelection=#F2EADF
+ColorSelectionUseDefault=TRUE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#9e613b
+ColorPalette=#1E1408;#ad5a00;#3e7d3f;#9e613b;#4A6E8A;#8B5A8A;#3A7A6A;#6A5C48;#6A5C48;#b75216;#3e7d46;#9e613b;#51748f;#8d618f;#3b7b6c;#1E1408

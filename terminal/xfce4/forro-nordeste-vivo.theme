@@ -1,0 +1,11 @@
+[Scheme]
+Name=Forró Nordeste Vivo
+ColorForeground=#F5F0E8
+ColorBackground=#111111
+ColorCursor=#F5C200
+ColorCursorForeground=#111111
+ColorSelection=#E8620A
+ColorSelectionUseDefault=FALSE
+ColorBoldUseDefault=TRUE
+TabActivityColor=#F5C200
+ColorPalette=#1A1A1A;#E8620A;#0f955e;#F5C200;#4A6E8A;#8B5A8A;#3A7A6A;#C8B8A0;#4A4038;#f5353d;#0f955e;#F5C200;#6A8EAA;#A87AAA;#5A9A8A;#F5F0E8
